@@ -1,0 +1,8 @@
+﻿  BinaryTree.cpp
+  Iterator.cpp
+  Main.cpp
+e:\facultate\sem 2\sda\huffmancode\huffmancode\main.cpp(97): warning C4018: '<': signed/unsigned mismatch
+e:\facultate\sem 2\sda\huffmancode\huffmancode\main.cpp(113): warning C4018: '<': signed/unsigned mismatch
+  Tests.cpp
+  Generating Code...
+  HuffmanCode.vcxproj -> E:\FACULTATE\SEM 2\SDA\HuffmanCode\Debug\HuffmanCode.exe
